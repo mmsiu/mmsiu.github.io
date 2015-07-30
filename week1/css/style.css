@@ -1,15 +1,15 @@
 body {
 	background-color: #ABBCFF
+	text-align: center;
 }
 h1, p {
 	color: white;
-	text-align: center;
 }
 h1 {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: x-large;
+	font-size: 200px;
 }
 p {
 	font-family: "Arial", Helvetica, sans-serif;
-	font-size: 60%;
+	font-size: 80px;
 }
