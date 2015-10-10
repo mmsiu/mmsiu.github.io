@@ -1,0 +1,67 @@
+body {
+	background-color: #C0C0C0;
+}
+
+#header {
+	text-align:center;
+	padding:1px;
+}
+
+#slogan {
+	text-align: center;
+}
+
+#nav {
+	text-align: center;
+}
+
+#contact ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+#contact ul li { display: inline; }
+
+#contact ul li a {
+	font-family: "Lato", light;
+	font-size: 13px;
+	padding: .2em lem;
+	color: #ffffff;
+}
+
+#contact ul li a:hover {
+	color: #ffffff;
+	background-color: #696969;
+}
+
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+	max-width: 45%;
+	height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h1 {
+	margin: 0
+}
+
+h1 {
+	font-family: "Lato", light;
+	color: #ffffff;
+	font-size: 100px;
+	font-weight: 150;
+}
+
+h2 {
+	font-family: "Lato", light;
+	color: #696969;
+	font-size: 18px;
+}
